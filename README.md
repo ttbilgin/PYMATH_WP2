@@ -1,3 +1,6 @@
+
+![pymath_logo](https://github.com/user-attachments/assets/859962be-5941-44f9-8bc5-0fc08b8970e2)
+
 # PyMath Initiative Project - Algorithms & Mathematics
 
 ## 📘 About the Project
@@ -109,7 +112,7 @@ This project is a collaborative effort between the following institutions:
 
 ## 📢 Disclaimer
 
-![erasmusplus](https://github.com/user-attachments/assets/e5a93273-fa8f-4419-b7da-79a7757b4d89)
+![fund](https://github.com/user-attachments/assets/3fef6ab3-2fe6-4fbf-970c-e53ad9cfc69f)
 
  *Co-funded by the European Union. Views and opinions expressed are however those of the author(s) only and do not necessarily reflect those of the European Union or the European Education and Culture Executive Agency (EACEA). Neither the European Union nor EACEA can be held responsible for them.*
 
