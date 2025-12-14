@@ -109,7 +109,7 @@ This project is a collaborative effort between the following institutions:
 
 ## 📢 Disclaimer
 
-![erasmusplus](https://github.com/user-attachments/assets/f2275bb0-35fd-4c43-9d05-d98afb8a5eda)
+![erasmusplus](https://github.com/user-attachments/assets/e5a93273-fa8f-4419-b7da-79a7757b4d89)
 
  *Co-funded by the European Union. Views and opinions expressed are however those of the author(s) only and do not necessarily reflect those of the European Union or the European Education and Culture Executive Agency (EACEA). Neither the European Union nor EACEA can be held responsible for them.*
 
