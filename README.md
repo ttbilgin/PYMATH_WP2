@@ -11,7 +11,7 @@ This repository contains the official training materials, presentations, and ass
 
 ### 🎓 Prepared By
 
-**Prof. Dr. Turgay Tugay BİLGİN** *Head of Computer Engineering Department* *Bursa Technical University (BTU)* *Bursa, Türkiye*
+**Prof. Dr. Turgay Tugay BİLGİN** *Computer Engineering Department* *Bursa Technical University (BTU)* *Bursa, Türkiye*
 
 -----
 
