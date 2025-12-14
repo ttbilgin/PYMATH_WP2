@@ -77,14 +77,17 @@ The materials in this repository are divided into sessions, covering the complet
 To reinforce learning, the following assignments allow students to apply algorithms to real-world mathematical problems:
 
 1.  **3D Geometry Calculation:**
-
-      * **Task:** Create an algorithm to calculate the Area and Volume of 3D objects (Cube, Sphere, Cylinder, Cone).
-      * **File:** `Assignment.pdf`
-
+    * **Task:** Create an algorithm to calculate the Area and Volume of 3D objects (Cube, Sphere, Cylinder, Cone).
+    * **File:** `Assignment.pdf`
+    
 2.  **Quadratic Equation Analysis:**
+    * **Task:** Analyze the roots of a quadratic equation ($ax^2 + bx + c = 0$) using Discriminant ($\Delta$) logic.
+    * **File:** `assignment2.pdf`
 
-      * **Task:** Analyze the roots of a quadratic equation ($ax^2 + bx + c = 0$) using Discriminant ($\Delta$) logic.
-      * **File:** `assignment2.pdf`
+3.  **Infinity Symbol with Turtle Graphics:**
+    * **Task:** Create an algorithm to draw an Infinity Symbol (∞) using Turtle Graphics.
+    * **Logic:** Connect two circles tangentially by reversing the turning direction for the second circle (e.g., Draw right-turning circle -> Draw left-turning circle).
+    * **File:** `Day3_Session6.pdf`
 
 -----
 
